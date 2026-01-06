@@ -53,10 +53,11 @@ pip install streamlit numpy matplotlib scikit-learn
 
 ## 📁 File Structure
 
+'''
 ├── app.py               # Main Streamlit app
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
-
+'''
 
 ## License
 
